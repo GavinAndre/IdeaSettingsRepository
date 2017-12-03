@@ -4,7 +4,7 @@
     <property name="created">2017-11-30T19:12:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2017-11-30T19:34:42</property>
+    <property name="modified">2017-12-03T20:58:14</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <console-font>
@@ -13,6 +13,23 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Ubuntu With WenQuanYi Micro Hei" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
+  <attributes>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="68b5ee" />
+      </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="64c8c8" />
+      </value>
+    </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="68b5ee" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
