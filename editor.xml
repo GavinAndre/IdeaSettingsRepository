@@ -5,8 +5,7 @@
     <option name="FONT_SCALE" value="1.25" />
     <option name="SECONDARY_FONT_FAMILY" value="Ubuntu With WenQuanYi Micro Hei" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
 </application>
