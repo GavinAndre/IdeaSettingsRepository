@@ -8,7 +8,4 @@
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
-  <codeStyleSettings language="kotlin">
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-  </codeStyleSettings>
 </code_scheme>
