@@ -1,9 +1,4 @@
 <templateSet group="Kotlin">
-  <template name="fun0" value="fun $NAME$() : $RETURN$ {&#10;$END$&#10;}" description="Function with no parameters" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="RETURN" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="psvm" value="fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
