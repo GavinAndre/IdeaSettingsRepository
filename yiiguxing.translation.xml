@@ -1,0 +1,23 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="hash Code" />
+      <item value="hash" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
