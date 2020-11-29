@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单链表反转" />
       <item value="* @param evict if false, the table is in creation mode." />
       <item value="explanation" />
       <item value="Table initialization and resizing control. When negative, the * table is being initialized or resized: -1 for initialization, * else -(1 + the number of active resizing threads). Otherwise, * when table is null, holds the initial table size to use upon * creation, or 0 for default. After initialization, holds the * next element count value upon which to resize the table." />
@@ -15,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="CHICHEWA" value="1" />
       </map>
     </option>
@@ -25,10 +26,8 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="showStatusIcon" value="false" />
   </component>
 </application>
