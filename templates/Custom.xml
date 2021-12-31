@@ -1,0 +1,16 @@
+<templateSet group="Custom">
+  <template name="logger" value="private static Logger logger = LoggerFactory.getLogger($className$.class);" description="LoggerTemplate" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="for ($i$ : $data$) {&#10;    $cursor$&#10;}" description="Create a for each loop" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

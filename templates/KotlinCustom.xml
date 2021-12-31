@@ -1,0 +1,8 @@
+<templateSet group="KotlinCustom">
+  <template name="logger" value="private val logger = LoggerFactory.getLogger($className$::class.java)" description="TAGTemplateKotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="kotlinClassName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>

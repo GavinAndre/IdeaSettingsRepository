@@ -1,0 +1,39 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="最后一个" />
+      <item value="第三个" />
+      <item value="慢" />
+      <item value="上一个" />
+      <item value="preview" />
+      <item value="prev" />
+      <item value="原来的" />
+      <item value="serial Next" />
+      <item value="serial" />
+      <item value="顺序的" />
+      <item value="顺序" />
+      <item value="positive Next" />
+      <item value="正序" />
+      <item value="原来" />
+      <item value="单链表反转" />
+      <item value="* @param evict if false, the table is in creation mode." />
+      <item value="explanation" />
+      <item value="Table initialization and resizing control. When negative, the * table is being initialized or resized: -1 for initialization, * else -(1 + the number of active resizing threads). Otherwise, * when table is null, holds the initial table size to use upon * creation, or 0 for default. After initialization, holds the * next element count value upon which to resize the table." />
+      <item value="Adds to count, and if table is too small and not already * resizing, initiates transfer. If already resizing, helps * perform transfer if work is available. Rechecks occupancy * after a transfer to see if another resize is already needed * because resizings are lagging additions." />
+      <item value="no lock when adding to empty bin" />
+      <item value="* Initializes table, using the size recorded in sizeCtl." />
+      <item value="lost initialization race; just spin" />
+      <item value="Splits nodes in a tree bin into lower and upper tree bins, * or untreeifies if now too small. Called only from resize; * see above discussion about split bits and indices." />
+      <item value="Splits nodes in a tree bin into lower and upper tree bins" />
+      <item value="map" />
+      <item value="indices" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="CHICHEWA" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
